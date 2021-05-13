@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+#marqueeStyle {
+    background-color: aqua;
+}
+#contact{
+    text-decoration-color: chartreuse;
+}
+#campus{
+   text-decoration-color: chartreuse;     
+}
